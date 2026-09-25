@@ -44,8 +44,6 @@ An end-to-end investment analysis of 5 major tech stocks (AAPL, MSFT, GOOGL, AMZ
 
 **Key Insight:** The Sharpe-optimized portfolio (64.87% NVDA) achieved a 2.18 Sharpe ratio vs. 1.96 for equal-weight — proving that data-driven concentration beats naive diversification.
 
-[View Project](./projects/07-portfolio-optimization/)
-
 ---
 
 ### 2. Executive Sales Dashboard (Power BI)
@@ -60,8 +58,6 @@ A manager-ready interactive dashboard built from the NorthStar Capital dataset.
 - DAX measures including CALCULATE, ALL(), and percentage-of-total calculations
 
 **Key Insight:** Technology accounts for 48.34% of total revenue, revealing heavy category concentration risk.
-
-[View Project](./projects/06-powerbi-dashboard/)
 
 ---
 
@@ -78,8 +74,6 @@ Exploratory data analysis of 120 investment clients across 9 variables.
 
 **Key Insight:** Aggressive and Balanced clients build larger portfolios over time, while Conservative clients plateau early.
 
-[View Project](./projects/05-python-eda/)
-
 ---
 
 ### 4. NorthMart SQL Analytics
@@ -94,8 +88,6 @@ Complex SQL analysis on a 3-table retail database (Customers, Orders, OrderLines
 - Anti-join patterns for finding customers with no orders
 
 **Key Insight:** Identified high-value customers and regional sales patterns using advanced SQL techniques.
-
-[View Project](./projects/03-sql-analytics/)
 
 ---
 
@@ -116,9 +108,9 @@ Complex SQL analysis on a 3-table retail database (Customers, Orders, OrderLines
 
 ## Contact
 
-- LinkedIn: [YOUR LINKEDIN URL HERE]
-- Email: [YOUR EMAIL HERE]
-- Location: [YOUR CITY/REGION HERE]
+- LinkedIn: https://www.linkedin.com/in/darshan-patel-436436133/
+- Email: dtpatel8998@gmail.com
+- Location: Remote
 
 ---
 
