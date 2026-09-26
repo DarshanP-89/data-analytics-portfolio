@@ -1,4 +1,7 @@
 # NorthStar Capital EDA (Python)
+![EDA Summary](../../assets/NorthStar_.eda_BarChart.png)
+![EDA Summary](../../assets/boxplot_EDA.png)
+![EDA Summary](../../assets/HeatMap_EDA.png)
 
 ## Overview
 Exploratory data analysis of 120 investment clients. Cleaned data, analyzed distributions, detected outliers, and identified portfolio growth patterns by risk profile.
