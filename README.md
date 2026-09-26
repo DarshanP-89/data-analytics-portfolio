@@ -1,5 +1,6 @@
 # Darshan — Data Analytics Portfolio
 
+![Portfolio Dashboard](assets/portfolio_dashboard.jpg)
 &gt; End-to-end data analytics projects spanning Excel, SQL, Statistics, Python, and Power BI.
 &gt; Built through a comprehensive hands-on course with real datasets and business scenarios.
 
