@@ -1,0 +1,121 @@
+CustomerID,Category,Region,Age,DaysToShip,Discount,OrderValue,RiskProfile,CustomerSince
+CUST-001,Technology,West,41,16,0.22,643.9,Balanced,2019-01-06
+CUST-002,Furniture,North,26,16,0.29,1873.82,Aggressive,2019-01-13
+CUST-003,Technology,South,26,18,0.15,1603.83,Aggressive,2019-01-20
+CUST-004,Technology,West,52,17,0.1,2719.26,Balanced,2019-01-27
+CUST-005,Furniture,West,47,18,0.24,1377.29,Balanced,2019-02-03
+CUST-006,Furniture,East,61,9,0.08,792.67,Balanced,2019-02-10
+CUST-007,Technology,South,56,10,0.13,857.48,Balanced,2019-02-17
+CUST-008,Office Supplies,South,57,7,0.02,2403.78,Balanced,2019-02-24
+CUST-009,Technology,North,25,16,0.01,2045.55,Aggressive,2019-03-03
+CUST-010,Technology,South,43,13,0.29,752.81,Aggressive,2019-03-10
+CUST-011,Technology,North,26,9,0.25,710.27,Balanced,2019-03-17
+CUST-012,Technology,South,50,12,0.21,2252.42,Conservative,2019-03-24
+CUST-013,Furniture,East,56,17,0.12,681.91,Balanced,2019-03-31
+CUST-014,Technology,South,30,5,0.05,2554.65,Conservative,2019-04-07
+CUST-015,Office Supplies,North,56,18,0.05,2265.61,Balanced,2019-04-14
+CUST-016,Furniture,North,28,9,0.08,703.37,Balanced,2019-04-21
+CUST-017,Office Supplies,East,35,19,0.16,712.09,Aggressive,2019-04-28
+CUST-018,Office Supplies,South,41,7,0.21,2966.6,Conservative,2019-05-05
+CUST-019,Office Supplies,South,62,16,0.2,1435.68,Conservative,2019-05-12
+CUST-020,Office Supplies,East,48,5,0.08,1426.61,Aggressive,2019-05-19
+CUST-021,Furniture,South,29,8,0.29,2532.0,Aggressive,2019-05-26
+CUST-022,Furniture,South,58,19,0.22,2868.12,Aggressive,2019-06-02
+CUST-023,Office Supplies,North,30,17,0.17,2965.0,Aggressive,2019-06-09
+CUST-024,Office Supplies,South,46,9,0.18,2383.45,Conservative,2019-06-16
+CUST-025,Furniture,South,35,11,0.13,1440.65,Conservative,2019-06-23
+CUST-026,Furniture,East,40,5,0.07,708.75,Balanced,2019-06-30
+CUST-027,Furniture,East,57,7,0.11,2442.87,Balanced,2019-07-07
+CUST-028,Technology,West,33,6,0.23,1896.01,Aggressive,2019-07-14
+CUST-029,Technology,North,30,13,0.0,1560.56,Aggressive,2019-07-21
+CUST-030,Technology,South,40,14,0.03,2765.89,Aggressive,2019-07-28
+CUST-031,Office Supplies,South,53,19,0.01,777.99,Balanced,2019-08-04
+CUST-032,Technology,West,27,10,0.01,1731.56,Balanced,2019-08-11
+CUST-033,Office Supplies,South,44,14,0.26,528.38,Balanced,2019-08-18
+CUST-034,Office Supplies,North,60,7,0.21,1671.65,Balanced,2019-08-25
+CUST-035,Technology,West,43,12,0.14,640.76,Balanced,2019-09-01
+CUST-036,Office Supplies,North,50,18,0.03,797.04,Balanced,2019-09-08
+CUST-037,Technology,West,27,12,0.15,793.82,Balanced,2019-09-15
+CUST-038,Technology,West,43,6,0.14,2123.03,Aggressive,2019-09-22
+CUST-039,Furniture,East,44,19,0.05,2365.11,Aggressive,2019-09-29
+CUST-040,Technology,North,56,10,0.13,1958.42,Aggressive,2019-10-06
+CUST-041,Furniture,South,31,11,0.12,2905.43,Aggressive,2019-10-13
+CUST-042,Technology,South,57,6,0.18,1437.18,Balanced,2019-10-20
+CUST-043,Technology,North,64,19,0.19,1214.28,Conservative,2019-10-27
+CUST-044,Furniture,South,63,15,0.01,2671.5,Balanced,2019-11-03
+CUST-045,Furniture,South,42,14,0.11,1058.99,Conservative,2019-11-10
+CUST-046,Technology,North,64,6,0.19,2908.06,Aggressive,2019-11-17
+CUST-047,Office Supplies,West,25,14,0.15,530.39,Balanced,2019-11-24
+CUST-048,Furniture,North,35,5,0.26,2924.7,Aggressive,2019-12-01
+CUST-049,Office Supplies,West,52,12,0.2,607.9,Balanced,2019-12-08
+CUST-050,Office Supplies,South,49,5,0.05,2727.86,Aggressive,2019-12-15
+CUST-051,Office Supplies,South,47,13,0.02,1819.25,Conservative,2019-12-22
+CUST-052,Furniture,South,55,15,0.19,2982.41,Conservative,2019-12-29
+CUST-053,Office Supplies,East,54,10,0.01,684.49,Conservative,2020-01-05
+CUST-054,Furniture,West,59,11,0.18,1884.64,Balanced,2020-01-12
+CUST-055,Office Supplies,East,31,17,0.28,2923.26,Conservative,2020-01-19
+CUST-056,Technology,East,40,14,0.17,1807.74,Balanced,2020-01-26
+CUST-057,Technology,North,50,11,0.12,2073.5,Conservative,2020-02-02
+CUST-058,Furniture,East,26,14,0.19,2239.37,Conservative,2020-02-09
+CUST-059,Technology,North,25,7,0.14,1636.35,Balanced,2020-02-16
+CUST-060,Technology,North,36,6,0.16,2068.9,Balanced,2020-02-23
+CUST-061,Office Supplies,East,29,13,0.28,1960.79,Conservative,2020-03-01
+CUST-062,Furniture,West,61,12,0.12,2752.9,Balanced,2020-03-08
+CUST-063,Office Supplies,West,56,17,0.29,613.62,Conservative,2020-03-15
+CUST-064,Office Supplies,West,33,16,0.27,1202.41,Balanced,2020-03-22
+CUST-065,Office Supplies,West,59,14,0.06,2876.03,Aggressive,2020-03-29
+CUST-066,Office Supplies,West,43,11,0.02,2725.66,Aggressive,2020-04-05
+CUST-067,Office Supplies,East,40,13,0.03,1639.14,Aggressive,2020-04-12
+CUST-068,Office Supplies,East,27,8,0.01,2050.33,Aggressive,2020-04-19
+CUST-069,Office Supplies,South,44,17,0.03,1193.45,Aggressive,2020-04-26
+CUST-070,Furniture,West,48,8,0.2,970.3,Conservative,2020-05-03
+CUST-071,Technology,East,57,5,0.02,1659.25,Aggressive,2020-05-10
+CUST-072,Office Supplies,South,48,12,0.1,1383.38,Aggressive,2020-05-17
+CUST-073,Office Supplies,West,35,18,0.25,1959.14,Aggressive,2020-05-24
+CUST-074,Office Supplies,North,32,18,0.01,694.34,Aggressive,2020-05-31
+CUST-075,Office Supplies,South,60,16,0.24,2935.99,Balanced,2020-06-07
+CUST-076,Office Supplies,East,62,7,0.08,2965.53,Conservative,2020-06-14
+CUST-077,Office Supplies,North,64,11,0.04,2245.4,Aggressive,2020-06-21
+CUST-078,Technology,North,44,19,0.21,1840.24,Aggressive,2020-06-28
+CUST-079,Technology,North,59,16,0.19,1273.82,Aggressive,2020-07-05
+CUST-080,Office Supplies,South,49,6,0.26,2534.49,Conservative,2020-07-12
+CUST-081,Technology,East,59,6,0.22,2211.83,Balanced,2020-07-19
+CUST-082,Furniture,North,49,11,0.24,906.54,Conservative,2020-07-26
+CUST-083,Office Supplies,West,53,19,0.08,2777.32,Balanced,2020-08-02
+CUST-084,Furniture,North,42,10,0.05,2556.34,Aggressive,2020-08-09
+CUST-085,Furniture,North,42,7,0.23,2874.5,Aggressive,2020-08-16
+CUST-086,Office Supplies,South,26,13,0.24,2314.3,Conservative,2020-08-23
+CUST-087,Technology,South,59,14,0.3,2033.54,Conservative,2020-08-30
+CUST-088,Furniture,East,40,19,0.12,1545.61,Balanced,2020-09-06
+CUST-089,Office Supplies,West,60,18,0.11,2831.82,Balanced,2020-09-13
+CUST-090,Furniture,South,57,17,0.23,2665.16,Conservative,2020-09-20
+CUST-091,Furniture,North,28,10,0.1,613.05,Balanced,2020-09-27
+CUST-092,Furniture,East,57,14,0.28,565.92,Conservative,2020-10-04
+CUST-093,Furniture,North,38,14,0.26,1441.16,Balanced,2020-10-11
+CUST-094,Technology,North,45,10,0.13,2526.38,Conservative,2020-10-18
+CUST-095,Furniture,South,44,5,0.23,2968.19,Conservative,2020-10-25
+CUST-096,Furniture,East,32,8,0.23,876.04,Conservative,2020-11-01
+CUST-097,Furniture,West,31,14,0.03,1985.33,Balanced,2020-11-08
+CUST-098,Technology,West,27,10,0.27,1452.23,Balanced,2020-11-15
+CUST-099,Furniture,South,41,19,0.15,2924.79,Balanced,2020-11-22
+CUST-100,Furniture,South,57,10,0.25,2605.3,Conservative,2020-11-29
+CUST-101,Technology,East,36,15,0.1,2595.82,Balanced,2020-12-06
+CUST-102,Technology,West,46,16,0.27,1671.73,Balanced,2020-12-13
+CUST-103,Technology,West,46,9,0.12,1537.05,Conservative,2020-12-20
+CUST-104,Furniture,West,54,5,0.0,1183.52,Aggressive,2020-12-27
+CUST-105,Technology,North,62,12,0.27,640.94,Conservative,2021-01-03
+CUST-106,Technology,West,62,9,0.03,2661.81,Balanced,2021-01-10
+CUST-107,Furniture,North,32,16,0.1,2532.25,Conservative,2021-01-17
+CUST-108,Technology,East,51,16,0.29,2999.29,Aggressive,2021-01-24
+CUST-109,Furniture,North,51,16,0.29,2991.59,Conservative,2021-01-31
+CUST-110,Office Supplies,East,58,9,0.17,1888.58,Balanced,2021-02-07
+CUST-111,Technology,West,45,11,0.19,2422.47,Aggressive,2021-02-14
+CUST-112,Office Supplies,West,54,8,0.13,2861.91,Balanced,2021-02-21
+CUST-113,Furniture,East,57,10,0.09,2624.12,Aggressive,2021-02-28
+CUST-114,Technology,South,52,17,0.1,1118.37,Aggressive,2021-03-07
+CUST-115,Furniture,East,57,8,0.2,1626.36,Conservative,2021-03-14
+CUST-116,Office Supplies,South,29,18,0.23,822.9,Conservative,2021-03-21
+CUST-117,Furniture,North,43,19,0.24,2885.13,Balanced,2021-03-28
+CUST-118,Technology,North,28,7,0.24,2015.44,Conservative,2021-04-04
+CUST-119,Technology,North,59,11,0.03,1071.61,Conservative,2021-04-11
+CUST-120,Office Supplies,West,41,12,0.15,2179.25,Aggressive,2021-04-18
