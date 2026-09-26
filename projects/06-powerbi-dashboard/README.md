@@ -1,5 +1,5 @@
 # Executive Sales Dashboard (Power BI)
-
+![Executive Dashboard](../../assets/Executive_Dashboard.jpg)
 ## Overview
 Manager-ready interactive dashboard built from the NorthStar Capital dataset. Features KPI cards, slicers, matrix with data bars, and drill-through to client details.
 
